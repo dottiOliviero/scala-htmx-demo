@@ -1,0 +1,1 @@
+# SPA with scala and htmx
